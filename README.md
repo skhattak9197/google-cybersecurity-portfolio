@@ -1,7 +1,5 @@
 # Google Cybersecurity Portfolio
 
-This repository contains portfolio projects completed while earning the Google Cybersecurity Professional Certificate.
-
 ## Projects
 
 - Botium Toys Internal Security Audit (Completed)
