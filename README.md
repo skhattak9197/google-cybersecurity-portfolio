@@ -4,13 +4,15 @@ This repository contains portfolio projects completed while earning the Google C
 
 ## Projects
 
-- Security Audit (In Progress)
-- Network Security
-- Linux
-- SQL
-- Vulnerability Assessment
-- Incident Response
-- Python
-- Resume
+- Botium Toys Internal Security Audit (Completed)
+- Network Security (Coming Soon)
+- Linux (Coming Soon)
+- SQL (Coming Soon)
+- Vulnerability Assessment (Coming Soon)
+- Incident Response (Coming Soon)
+- Python (Coming Soon)
+- Resume (Coming Soon)
 
-> This repository contains educational projects completed in a learning environment and does not represent professional cybersecurity consulting work.
+## About
+
+The purpose of this portfolio is to demonstrate my understanding of cybersecurity fundamentals through hands-on projects and practical exercises.
