@@ -8,11 +8,13 @@ The purpose of this portfolio is to demonstrate my understanding of cybersecurit
 
 ## Projects
 
-- Botium Toys Internal Security Audit (Completed)
-- Network Security (Coming Soon)
-- Linux (Coming Soon)
-- SQL (Coming Soon)
-- Vulnerability Assessment (Coming Soon)
-- Incident Response (Coming Soon)
-- Python (Coming Soon)
-- Resume (Coming Soon)
+- ✅ [Botium Toys Internal Security Audit](./Botium-Toys-Internal-Security-Audit.pdf)
+- ✅ [Asset Inventory](./Asset-Inventory.md)
+- ⏳ Risk Register
+- ⏳ Access Control Policy
+- ⏳ Gap Assessment
+- ⏳ NIST CSF Control Mapping
+- ⏳ Linux
+- ⏳ SQL
+- ⏳ Incident Response
+- ⏳ Python
