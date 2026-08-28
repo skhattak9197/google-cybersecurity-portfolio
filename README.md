@@ -2,9 +2,18 @@
 
 ## About
 
-This portfolio contains hands-on projects completed while earning the Google Cybersecurity Professional Certificate.
+This repository contains hands-on cybersecurity projects completed while studying the Google Cybersecurity Professional Certificate.
 
-The purpose of this portfolio is to demonstrate my understanding of cybersecurity fundamentals through practical projects and exercises.
+Using the fictional company **Botium Toys**, this portfolio demonstrates the process of:
+
+- Identifying business assets
+- Assessing cybersecurity risks
+- Recommending security controls
+- Identifying security gaps
+- Defining access controls
+- Documenting findings through a security audit
+
+The purpose of this portfolio is to demonstrate practical cybersecurity, risk management, and Governance, Risk, and Compliance (GRC) skills through hands-on projects.
 
 ## Projects
 
