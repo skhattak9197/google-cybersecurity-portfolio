@@ -1,0 +1,28 @@
+# AWS IAM Security Lab
+
+## Objective
+
+Configure a secure AWS Identity and Access Management (IAM) administration lab using group-based access and multi-factor authentication (MFA).
+
+## Lab Activities Completed
+
+- Secured the AWS root account with MFA.
+- Created a `Lab-Administrators` IAM group.
+- Attached the AWS-managed `AdministratorAccess` policy to the lab group for controlled administrative practice.
+- Created a `lab-admin` IAM user.
+- Assigned the `lab-admin` user to the `Lab-Administrators` group instead of assigning permissions directly to the user.
+- Protected the `lab-admin` user with MFA.
+
+## IAM Concepts Demonstrated
+
+- User provisioning
+- Authentication and MFA
+- Authorization
+- Role-based and group-based access control
+- User account administration
+- Security controls
+- Enterprise IAM fundamentals
+
+## Security Note
+
+This is a personal AWS lab environment. No production data, passwords, access keys, secret keys, recovery codes, or AWS account identifiers are included in this repository.
