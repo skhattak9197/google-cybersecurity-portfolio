@@ -19,6 +19,7 @@ The purpose of this portfolio is to demonstrate practical cybersecurity, risk ma
 
 - ✅ [Botium Toys Internal Security Audit](./Botium-Toys-Internal-Security-Audit.pdf)
 - ✅ [Asset Inventory](./Asset-Inventory.md)
+- ✅ [AWS IAM Security Lab](./aws-iam-security-lab/README.md)
 - ⏳ Risk Register
 - ⏳ Access Control Policy
 - ⏳ Gap Assessment
