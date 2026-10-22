@@ -4,6 +4,10 @@
 
 Configure and document a personal AWS Identity and Access Management (IAM) lab that applies basic account-security and access-administration concepts.
 
+## Learning Context
+
+This hands-on lab was completed while studying [Security with AWS: Identity and Access Management (IAM)](https://www.coursera.org/account/accomplishments/certificate/0L311PMCNFV8) on Coursera in October 2026. It is personal lab work, not production or employer experience.
+
 ## Lab Activities Completed
 
 - Secured the AWS root account with multi-factor authentication (MFA).
